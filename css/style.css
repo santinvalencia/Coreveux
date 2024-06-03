@@ -1,0 +1,26 @@
+.mover-abajo {
+    position: relative;
+    top: 10px; /* Ajusta este valor según tus necesidades */
+}
+
+/* Mover texto hacia arriba */
+.mover-arriba {
+    position: relative;
+    top: -10px; /* Ajusta este valor según tus necesidades */
+}
+
+/* Mover texto hacia la izquierda */
+.mover-izquierda {
+    position: relative;
+    left: -10px; /* Ajusta este valor según tus necesidades */
+}
+
+/* Mover texto hacia la derecha */
+.mover-derecha {
+    position: relative;
+    left: 10px; /* Ajusta este valor según tus necesidades */
+}
+.mover-sabajo {
+    position: relative;
+    top: 25px; /* Ajusta este valor según tus necesidades */
+}
