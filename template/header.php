@@ -16,13 +16,9 @@
             <li class="nav-item">
                 <img width="75px"  class="mover-derecha" src="img/cvx.png" alt="">
             </li>
-
-            <li class="navbar-brand">
-                <a class="nav-link mover-derecha mover-abajo" href="#">Logo Empresa</a>
-            </li>
         
             <li class="navbar-brand">
-                <a class="nav-link mover-abajo" href="#">Sobre Nosotros</a>
+                <a class="nav-link mover-abajo mover-derecha" href="layout/about.php">Sobre Nosotros</a>
             </li>
             <li class="navbar-brand">
                 <a class="nav-link mover-abajo" href="#">Acerca de</a>
