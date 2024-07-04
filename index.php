@@ -6,7 +6,7 @@
                 <p class="lead">Juego de peleas 1 v 1</p>
                 <p>hola</p>
                 <p class="lead">
-                    <a class="btn btn-primary btn-lg" href="#" role="button">Jugar Ahora</a>
+                    <a class="btn btn-primary btn-lg" download="Infinitty_Showdown" href="src/juego.hmtl" role="button">Jugar Ahora</a>
                 </p>
                 <hr class="my-2">
                 </center>
