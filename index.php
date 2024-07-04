@@ -1,14 +1,11 @@
 <?php include ("template/header.php"); ?>
-            <div class="jumbotron mover-sabajo">
-                <center>
+            <div class="jumbotron">
+                <h1 class="display-3">Coreveux</h1>
+                <p class="lead">Empresa orientada a la creacion de juegos basicos y entretenidos</p>
                 <hr class="my-2">
-                <img class="display-3" width="200px" src="img/is.png">
-                <p class="lead">Juego de peleas 1 v 1</p>
-                <p>hola</p>
+                <p>Mas informacion</p>
                 <p class="lead">
-                    <a class="btn btn-primary btn-lg" download="Infinitty_Showdown" href="src/juego.hmtl" role="button">Jugar Ahora</a>
+                    <a class="btn btn-primary btn-lg" href="<?php echo $url?>about.php" role="button">Sobre nosotros</a>
                 </p>
-                <hr class="my-2">
-                </center>
             </div>
 <?php include ("template/footer.php"); ?>

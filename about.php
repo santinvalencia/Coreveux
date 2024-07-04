@@ -1,6 +1,9 @@
 <?php include ("template/header.php"); ?>
-
-
+<div class="page-header">
+              <h1 id="indicators">¿Quienes somos?</h1>
+</div>
+<br>
+<div class="row">
 <div class="card text-white bg-danger mb-3" style="max-width: 20rem;">
   <div class="card-header">Santiago Huanca</div>
   <div class="card-body">
@@ -31,7 +34,10 @@
     <p class="card-text">Integrante del equipo de desarrollo y diseño del juego.</p>
   </div>
 </div>
-
+</div>
+<div class="row">
+    
+</div>
 
 
 <?php include ("template/footer.php"); ?>

@@ -28,10 +28,7 @@ $url="http://".$_SERVER['HTTP_HOST']."/Coreveux/"
                 <a class="nav-link mover-abajo mover-derecha" href="<?php echo $url;?>about.php">Sobre Nosotros</a>
             </li>
             <li class="navbar-brand">
-                <a class="nav-link mover-abajo" href="<?php echo $url;?>">Acerca de</a>
-            </li>
-            <li class="navbar-brand">
-                <a class="nav-link mover-abajo" class="mover-abajo" href="<?php echo $url;?>">Contáctanos</a>
+                <a class="nav-link mover-abajo" href="<?php echo $url;?>is.php">Infinitty Showdown</a>
             </li>
         </ul>
         
