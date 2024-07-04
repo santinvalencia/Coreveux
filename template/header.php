@@ -6,7 +6,7 @@
     <title>Infinitty Showdown</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="img/ISlogo.png">
+    <link rel="icon" href="img/cvx.png">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -14,7 +14,7 @@
         <ul class="nav navbar-nav">
 
             <li class="nav-item">
-                <img width="75px"  class="mover-derecha" src="img/ISlogo.png" alt="">
+                <img width="75px"  class="mover-derecha" src="img/cvx.png" alt="">
             </li>
 
             <li class="navbar-brand">
