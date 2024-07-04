@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php 
+$url="http://".$_SERVER['HTTP_HOST']."/Coreveux/" 
+?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Infinitty Showdown</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="img/cvx.png">
+    <link rel="stylesheet" href="<?php echo $url;?>css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo $url;?>css/style.css">
+    <link rel="icon" href="<?php echo $url;?>img/cvx.png">
 </head>
+
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         
@@ -18,13 +23,13 @@
             </li>
         
             <li class="navbar-brand">
-                <a class="nav-link mover-abajo mover-derecha" href="layout/about.php">Sobre Nosotros</a>
+                <a class="nav-link mover-abajo mover-derecha" href="<?php echo $url;?>layout/about.php">Sobre Nosotros</a>
             </li>
             <li class="navbar-brand">
-                <a class="nav-link mover-abajo" href="#">Acerca de</a>
+                <a class="nav-link mover-abajo" href="<?php echo $url;?>">Acerca de</a>
             </li>
             <li class="navbar-brand">
-                <a class="nav-link mover-abajo" class="mover-abajo" href="#">Contáctanos</a>
+                <a class="nav-link mover-abajo" class="mover-abajo" href="<?php echo $url;?>">Contáctanos</a>
             </li>
         </ul>
         
