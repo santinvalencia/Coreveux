@@ -9,7 +9,7 @@ $url="http://".$_SERVER['HTTP_HOST']."/Coreveux/"
     <title>Infinitty Showdown</title>
     <link rel="stylesheet" href="<?php echo $url?>css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $url?>css/style.css">
-    <link rel="icon" href="<?php echo $url?>img/cvx.php">
+    <link rel="icon" href="<?php echo $url?>img/cvx.png">
 </head>
 
 
